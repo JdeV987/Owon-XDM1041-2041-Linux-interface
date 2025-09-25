@@ -1,11 +1,11 @@
 Inspired by these guys:
-https://github.com/icrnjavic/OWON-XDM1041_py-util
+https://github.com/icrnjavic/OWON-XDM1041_py-util , 
 https://github.com/martin-bochum/Multimeter
 
 
 
 # OWON-XDM1042 Python utility 
-### Also supports a simple desktop gui</br>
+### Supports a simple desktop gui to read and control the DMM.</br>
 ![GUI](GUI.png)
 
 
