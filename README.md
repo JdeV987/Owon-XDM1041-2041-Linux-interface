@@ -6,7 +6,7 @@ https://github.com/martin-bochum/Multimeter
 
 # OWON-XDM1042 Python utility 
 ### Also supports a simple desktop gui</br>
-![GUI](GUI.png.png)
+![GUI](GUI.png)
 
 
 
