@@ -1,11 +1,13 @@
 #  https://www.1001fonts.com/search.html?search=lcd
 #  https://kidspattern.com/color/
 
-#  Author: JHT (Joe's Hobby Tech)  25/09/2025    
+#  Author: JHT (Joe's Hobby Tech)  
+#  Date:25/09/2025    
 #  https://www.youtube.com/@joeshobbytech    
 #  https://github.com/JdeV987?tab=repositories
 
 #  Credits: 95% DeepSeek AI  ;)
+#  I don't have a clue how to program any thing. Just asked the right questions to AI, and ended up with this. ;)
 
 
 from tkinter import *
