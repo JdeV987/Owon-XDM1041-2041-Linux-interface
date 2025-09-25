@@ -1,12 +1,12 @@
+Inspired by these guys:
 https://github.com/icrnjavic/OWON-XDM1041_py-util
-
 https://github.com/martin-bochum/Multimeter
 
 
 
-# OWON-XDM1041 Python utility 
+# OWON-XDM1042 Python utility 
 ### Also supports a simple desktop gui</br>
-![Alt text](docs/Screenshot-12.png)
+![GUI](GUI.png.png)
 
 
 
