@@ -7,7 +7,7 @@
 #  https://github.com/JdeV987?tab=repositories
 
 #  Credits: 95% DeepSeek AI  ;)
-#  I don't have a clue how to program any thing. Just asked the right questions to AI, and ended up with this. ;)
+#  I don't have a clue how to program anything. Just asked the right questions to AI, and ended up with this. ;)
 
 
 from tkinter import *
