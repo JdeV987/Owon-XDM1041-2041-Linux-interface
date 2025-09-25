@@ -4,7 +4,7 @@ https://github.com/martin-bochum/Multimeter
 
 
 
-# OWON-XDM1041 / 2041 Python utility 
+# Owon_XDM1041 /2041-Linux-interface
 ### Supports a simple desktop gui to read and control the DMM.</br>
 ![GUI](GUI.png)
 
@@ -20,4 +20,4 @@ To run the gui
 ```shell
 python3 gui.py
 ```
-# Owon-XDM1041-2041-Linux-interface
+
