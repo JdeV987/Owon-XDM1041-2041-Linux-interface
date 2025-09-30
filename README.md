@@ -1,6 +1,9 @@
 Inspired by these guys:
-https://github.com/TheHWcave/OWON-XDM1041 , https://github.com/TechRelief/OWON-Display , https://github.com/icrnjavic/OWON-XDM1041_py-util , 
-https://github.com/martin-bochum/Multimeter , https://github.com/markusdd/rusty_meter
+https://github.com/TheHWcave/OWON-XDM1041
+https://github.com/TechRelief/OWON-Display
+https://github.com/icrnjavic/OWON-XDM1041_py-util 
+https://github.com/martin-bochum/Multimeter
+https://github.com/markusdd/rusty_meter
 
 
 
