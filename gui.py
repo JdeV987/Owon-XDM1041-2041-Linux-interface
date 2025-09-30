@@ -2,7 +2,8 @@
 #  https://kidspattern.com/color/
 
 #  Author: JHT (Joe's Hobby Tech)  
-#  Date:25/09/2025    
+#  Date:25/09/202
+#  Vwersion: 1.0
 #  https://www.youtube.com/@joeshobbytech    
 #  https://github.com/JdeV987?tab=repositories
 
