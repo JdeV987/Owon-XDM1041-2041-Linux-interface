@@ -6,7 +6,7 @@ https://github.com/martin-bochum/Multimeter
 
 # Owon_XDM1041 /2041-Linux-interface
 ### Supports a simple desktop gui to read and control the DMM.</br>
-![GUI](GUI.png)
+![GUI](DMM11.png)
 
 
 
