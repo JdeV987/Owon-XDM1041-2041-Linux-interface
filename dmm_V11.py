@@ -7,7 +7,7 @@
 
 #  Credits: 95% DeepSeek AI  ;)
 #  Date:30/09/202
-#  Version: 1.0
+#  Version: 1.1
 
 import serial
 import serial.tools.list_ports
