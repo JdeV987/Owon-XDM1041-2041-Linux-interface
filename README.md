@@ -1,6 +1,6 @@
 Inspired by these guys:
 https://github.com/icrnjavic/OWON-XDM1041_py-util , 
-https://github.com/martin-bochum/Multimeter
+https://github.com/martin-bochum/Multimeter , https://github.com/markusdd/rusty_meter
 
 
 
