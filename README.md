@@ -21,6 +21,6 @@ pip install -r requirements.txt
 
 To run the gui
 ```shell
-python3 gui.py
+python3 gui_V11.py
 ```
 
