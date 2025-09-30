@@ -1,9 +1,9 @@
 Inspired by these guys: </br>
-https://github.com/icrnjavic/OWON-XDM1041_py-util  (Main inspiration) </br>
-https://github.com/TheHWcave/OWON-XDM1041          (Very good YouTube series on this)</br>
-https://github.com/TechRelief/OWON-Display         (Windows only, display only)</br>
-https://github.com/martin-bochum/Multimeter        (Seems like a very nice one. Could not get it to work on Linux)</br>
-https://github.com/markusdd/rusty_meter            (Very comprehensive with recording functions)</br>
+https://github.com/icrnjavic/OWON-XDM1041_py-util      (Main inspiration) </br>
+https://github.com/TheHWcave/OWON-XDM1041              (Very good YouTube series on this)</br>
+https://github.com/TechRelief/OWON-Display             (Windows only, display only)</br>
+https://github.com/martin-bochum/Multimeter            (Seems like a very nice one. Could not get it to work on Linux)</br>
+https://github.com/markusdd/rusty_meter                (Very comprehensive with recording functions)</br>
 
 
 
